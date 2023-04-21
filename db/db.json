@@ -77,5 +77,30 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "Teste Usuario",
+      "pao": "Italiano Branco",
+      "carne": "Alcatra",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Em produção",
+      "id": 1
+    },
+    {
+      "nome": "Teste Usuario 2",
+      "pao": "Italiano Branco",
+      "carne": "Picanha",
+      "opcionais": [
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Em produção",
+      "id": 2
+    }
+  ]
 }
