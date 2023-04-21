@@ -77,51 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "nome": "Igor Vinicius",
-      "pao": "Italiano Branco",
-      "carne": "Alcatra",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cheddar"
-      ],
-      "status": "Em produção",
-      "id": 1
-    },
-    {
-      "nome": "Oneide Oliveira",
-      "pao": "Italiano Branco",
-      "carne": "Picanha",
-      "opcionais": [
-        "Cheddar",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Deusdedith Torres",
-      "pao": "Italiano Branco",
-      "carne": "Picanha",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "Walter Carvalho",
-      "pao": "Italiano Branco",
-      "carne": "Veggie burger",
-      "opcionais": [
-        "Cebola roxa",
-        "Pepino"
-      ],
-      "status": "Em produção",
-      "id": 4
-    }
-  ]
+  "burgers": []
 }
